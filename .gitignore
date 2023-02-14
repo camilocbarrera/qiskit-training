@@ -1,0 +1,4 @@
+/venv
+local_history.patch
+.ipynb_checkpoints
+.idea
